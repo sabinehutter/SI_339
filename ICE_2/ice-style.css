@@ -1,0 +1,41 @@
+header{
+	background: yellow;
+	text-align: right;
+}
+nav{
+	background: green;
+}
+nav li{
+	display: inline-block;
+	color: white;
+}
+
+nav li a{
+	display: block;
+	color: white;
+	text-decoration: none;
+	background-color: black;
+	text-align: center;
+	padding: 14px 16px;
+
+}
+div h1{
+	font-size: 40px;
+}
+aside{
+	position: fixed;
+	padding: 0px;
+	right: 0px;
+}
+#content h1{
+	padding: 0;
+}
+#content li{
+	text-align: center;
+	display: inline-block;
+
+}
+footer{
+	background: green;
+}
+ 
